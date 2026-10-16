@@ -1,0 +1,25 @@
+# Arduino IDE and build output
+build/
+out/
+.arduino/
+.pio/
+
+# IDE/editor state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Compiled artifacts and logs
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.hex
+*.uf2
+*.map
+*.log
+*.tmp
+*.swp
+*.swo

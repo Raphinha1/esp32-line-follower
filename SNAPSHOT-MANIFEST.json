@@ -1,0 +1,38 @@
+{
+  "source_archive": "Proyecto integrador-20261012T221638Z-1-001.zip",
+  "note": "Hashes cover every snapshot file except this manifest itself. Source-sketch hashes are computed from ZIP entry bytes.",
+  "files": [
+    {
+      "snapshot_path": ".gitignore",
+      "size_bytes": 212,
+      "sha256": "1a4158a1335b6bad9b9ada313f959fbc4e622d097198126820c97d1ca4cc014d"
+    },
+    {
+      "snapshot_path": "LICENSE",
+      "size_bytes": 1091,
+      "sha256": "281001131ef2682e2ab270d4883fa0ebeec7532b0afb06caeb0a4ef1bfb4e372"
+    },
+    {
+      "snapshot_path": "README.md",
+      "size_bytes": 2333,
+      "sha256": "bef41da7766be61dc90dafd9f58256b72746b47e0f267eef813a031327181209"
+    },
+    {
+      "snapshot_path": "docs/hardware.md",
+      "size_bytes": 2425,
+      "sha256": "f9135197bed3399164132af3fc91f9e654a3c225b95b7c11f758642e3bb2b239"
+    },
+    {
+      "snapshot_path": "variants/Robot/Robot.ino",
+      "size_bytes": 1989,
+      "sha256": "f1fd92d6ee06eef2cca0312d479d45eedcae5afcf7e3a409a54617af6e7c05d5",
+      "source_in_archive": "Proyecto integrador/PI 4 sem/Robot/Robot.ino"
+    },
+    {
+      "snapshot_path": "variants/robotNucleo/robotNucleo.ino",
+      "size_bytes": 3917,
+      "sha256": "d28191a2eebf949d78d18621e076ea71e64dc74ed4e0207c5bda5f1c670d21e3",
+      "source_in_archive": "Proyecto integrador/PI 4 sem/robotNucleo/robotNucleo.ino"
+    }
+  ]
+}
